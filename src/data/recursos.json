@@ -1,0 +1,36 @@
+{
+  "formacion": [
+    {
+      "id": "recurso1",
+      "nombre": "Primeros Pasos en JavaScript",
+      "descripcionLarga": "https://es.javascript.info/first-steps",
+      "enlace": "https://es.javascript.info/first-steps",
+      "categoria": "JavaScript"
+    },
+    {
+      "id": "recurso2",
+      "nombre": "Code Guide: HTML Doctype",
+      "descripcionLarga": "https://codeguide.co/#html-doctype",
+      "enlace": "https://codeguide.co/#html-doctype",
+      "categoria": "HTML"
+    }
+  ],
+  "recursosCSS": [
+    {
+      "id": "recurso8",
+      "nombre": "28 Ebook y Curso Web Development",
+      "descripcionLarga": "https://dev.to/haycuoilennao19/28-ebook-and-course-free-for-web-development-89o",
+      "enlace": "https://dev.to/haycuoilennao19/28-ebook-and-course-free-for-web-development-89o",
+      "categoria": "CSS"
+    }
+  ],
+  "herramientas": [
+    {
+      "id": "recurso13",
+      "nombre": "JustCode Today Filters",
+      "descripcionLarga": "https://justcode.today/filters/",
+      "enlace": "https://justcode.today/filters/",
+      "categoria": "Herramientas"
+    }
+  ]
+}
